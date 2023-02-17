@@ -1,6 +1,6 @@
 ### Woody's GitHub
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Woody&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=170&section=header&text=Woody&fontSize=70)
 
 <h2>Skills</h2>
 
