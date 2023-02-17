@@ -18,6 +18,6 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>
 </div>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wecaners&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wecaners&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/wecaners"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=wecaners&theme=merko" alt="Woody's github stats"></a>
+<a href="https://github.com/wecaners"><img align="center" style="height:180px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wecaners" alt="Woody's github stats"></a>
+<a href="https://github.com/wecaners"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wecaners&layout=compact&theme=nord&hide_border=true" /></a>
