@@ -1,5 +1,4 @@
 ### Woody's GitHub
-hello
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Woody&fontSize=90)
 
@@ -22,6 +21,6 @@ hello
   </div>
 </div>
 
-<a href="https://github.com/wecaners"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=wecaners&theme=merko" alt="Woody's github stats"></a>
+<a href="https://github.com/wecaners"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=wecaners&theme=merko&hide_border=true" alt="Woody's github stats"></a>
 <a href="https://github.com/wecaners"><img align="center" style="height:180px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wecaners" alt="Woody's github stats"></a>
-<a href="https://github.com/wecaners"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wecaners&layout=compact&theme=nord&hide_border=true" /></a>
+<a href="https://github.com/wecaners"><img style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wecaners&layout=compact&theme=nord&hide_border=true" /></a>
