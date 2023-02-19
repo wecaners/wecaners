@@ -27,6 +27,6 @@
 
 <h2>Status<h2>
 <div align="center">
-  <a href="https://github.com/wecaners"><img align="center" style="height:160px" src="https://github-readme-stats.vercel.app/api?username=wecaners&theme=tokyonight&hide_border=true" alt="Woody's github stats"></a>
-  <a href="https://github.com/wecaners"><img align="center" style="height:160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wecaners&layout=compact&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/wecaners"><img align="center" style="height:150px" src="https://github-readme-stats.vercel.app/api?username=wecaners&theme=tokyonight&hide_border=true" alt="Woody's github stats"></a>
+  <a href="https://github.com/wecaners"><img align="center" style="height:150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wecaners&layout=compact&theme=tokyonight&hide_border=true" /></a>
 </div>
