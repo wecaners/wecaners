@@ -8,6 +8,7 @@
   Language : 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/REACT-61DAFB?style=flat&logo=REACT&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-0052CC?style=flat&logo=TypeScript&logoColor=white"/>
 </div>
 <div>
   Tools : 
@@ -19,11 +20,6 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>
   <img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=Trello&logoColor=white"/>
-</div>
-<div>
-  Studying : 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-0052CC?style=flat&logo=TypeScript&logoColor=white"/>
 </div>
 
 <h2>Status<h2>
