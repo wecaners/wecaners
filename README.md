@@ -5,7 +5,7 @@
 <h2>Skills</h2>
 
 <div>
-  Language : 
+  FrontEnd : 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/REACT-61DAFB?style=flat&logo=REACT&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-0052CC?style=flat&logo=TypeScript&logoColor=white"/>
